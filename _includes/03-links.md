@@ -1,1 +1,1 @@
-[GitHub Profile] (https://github.com/Jetlag86)
+[GitHub Profile](https://github.com/Jetlag86)
